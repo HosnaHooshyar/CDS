@@ -1,0 +1,9 @@
+Method,Number of data points,MSE,R2,Accuracy
+Regression,77,0.687,0.091,
+SVC-Linear,77,,,0.870968
+SVC-RBF,77,,,0.741935
+SVC-Polynomial,77,,,0.741935
+Regression,152,0.585,0.1,
+SVC-Linear,152,,,0.737
+SVC-RBF,152,,,0.754
+SVC-Polynomial,152,,,0.721

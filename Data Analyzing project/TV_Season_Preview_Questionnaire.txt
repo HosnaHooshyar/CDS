@@ -1,0 +1,172 @@
+UTA Fall 2019 TV Preview Survey
+
+
+Q1 Welcome.  
+   
+Thank you for taking our survey. Most participants complete it in about 5-7 minutes.  
+Before we get started, we have a couple of classification questions for you.
+
+Q2 
+In what year were you born?  
+(yyyy)
+
+Q3 Which best describes you?
+o Male  (1) 
+o Female  (2) 
+o Non-Binary  (3) 
+
+
+Q4 On average, about how many hours a week would you say that you watch television programming (either on a TV or any device that can play television content)?
+o 0-2  (1) 
+o 3-5  (2) 
+o 6-9  (3) 
+o 10+  (4) 
+
+Q5 
+Do you typically watch any prime-time television programs (shows that are first broadcast on network or cable television channels between the hours of 8-11pm)?
+ Note: It does not matter if you actually watch these programs when they are scheduled.
+o Yes  (1) 
+o No  (2) 
+
+
+
+Q6 Thinking about when you happen to watch prime time TV programs, when do you typically watch them? (only asked of code 1 on Q5)
+ If you are unsure, please pick the option that seems most typical for you.
+o Live—when they are scheduled  (1) 
+o Recorded—at a time after they are scheduled  (2) 
+
+Q7 Have you ever binge-watched a TV program?
+o Yes  (1) 
+o No  (2) 
+
+Q8 Do you typically watch TV with other people or by yourself?
+o By myself  (1) 
+o With other people  (2) 
+o Both  (3) 
+
+Q9 Do you have a television in your home?
+o Yes  (1) 
+o No  (0) 
+
+
+Q10 Do you most typically watch tv programs on a television or on another device (mobile phone, tablet, computer, etc.)?
+o On a television  (1) 
+o On another device  (2) 
+
+Q11 
+What are your favorite kinds of TV programming?  
+Select all that apply.
+? Comedy  (1) 
+? Drama  (2) 
+? Reality  (3) 
+? Contests/Competition  (4) 
+? News  (5) 
+? Other  (6) ________________________________________________
+
+
+Q12 On the next screen we are going to show you preview for a prime-time TV series that will be introduced soon. Please watch the preview and then answer the questions that follow.
+
+
+Q13 
+Please watch the following short video and then proceed to the next question.  
+   
+
+Q14 Based on what you now know about ${e://Field/title}, how likely would you be to watch this program?
+o Definitely will watch  (5) 
+o Probably will watch  (4) 
+o Might or might not watch  (3) 
+o Probably will not watch  (2) 
+o Definitely will not watch  (1) 
+
+
+
+
+Q15 How unique, if at all, does ${e://Field/title} seem to you?
+o Extremely unique  (5) 
+o Somewhat unique  (4) 
+o Neither unique nor generic  (3) 
+o Somewhat generic  (2) 
+o Extremely generic  (1) 
+
+Q16 How relevant, if at all, is ${e://Field/title} to you?
+o Extremely relevant  (5) 
+o Somewhat relevant  (4) 
+o Neither relevant nor irrelevant  (3) 
+o Somewhat irrelevant  (2) 
+o Extremely irrelevant  (1) 
+
+
+Q17 These final questions will help us group your responses with others who have similar opinions. Your answers are confidential and used for classification purposes only.
+
+Q18 What is the five-digit zipcode of your primary residence?
+
+Q19 Are you of Hispanic or Latino origin?
+o Yes  (1) 
+o No  (2) 
+o Prefer not to say  (3) 
+
+Q20 Which of the following best describes your racial or ethnic background?
+o Caucasian  (1) 
+o African American  (2) 
+o Asian  (3) 
+o Native American Indian  (6) 
+o Other (please specify)  (4) ________________________________________________
+o Prefer not to say  (5) 
+
+
+Q21 What is the highest level of education you have completed?
+o Some high school or less  (1) 
+o High school graduate  (2) 
+o Some college  (3) 
+o College graduate  (4) 
+o Post graduate work (no degree)  (5) 
+o Post graduate degree  (6) 
+o Vocational / technical school  (7) 
+o Prefer not to say  (8) 
+
+
+Q22 Are you married or unmarried now?
+o Married  (1) 
+o Unmarried  (2) 
+
+
+
+Q23 Are you and your partner living together now or separately? (only asked of code 1 on Q22)
+o Living together  (1) 
+o Living separately  (2) 
+
+
+Q24 Do you consider the arrangement of living separately to be a temporary arrangement or a permanent arrangement? (only asked of code 2 on Q23)
+o Temporary  (1) 
+o Permanent  (2) 
+
+
+Q25 Have you ever been married? (only asked of code 2 on Q22)
+o Yes  (1) 
+o No  (2) 
+
+
+Q26 Are you the parent or guardian of any children under 18 years of age?
+o Yes  (1) 
+o No  (2) 
+
+Q27 How many adults, age 18 and over, currently live in your household (including yourself)?
+o 1  (1) 
+o 2  (2) 
+o 3  (3) 
+o 4  (4) 
+o More than 4  (5) 
+
+
+Q28 Which of the following best describes your total household income from all sources last year before taxes?
+o Under $20,000  (1) 
+o $20,000 to $49,999  (2) 
+o $50,000 to $99,999  (3) 
+o $100,000 to $149,999  (4) 
+o $150,000 to $199,999  (5) 
+o $200,000 or more  (6) 
+o Prefer not to answer  (7) 
+
+
+
+
