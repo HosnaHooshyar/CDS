@@ -1,0 +1,137 @@
+year,movie,Award,Pre_award
+2000,Traffic,Director,no
+2000,Traffic,S_Actor,no
+2000,Traffic,AdaScreen,no
+2000,Pollock,S_Actress,no
+2000,Erin Brockovich,Actress,no
+2000,Gladiator,Picture,no
+2000,Gladiator,Actor,no
+2000,Almost Famous,OriScreen,no
+2001,A Beautiful Mind,Picture,no
+2001,A Beautiful Mind,Director,no
+2001,A Beautiful Mind,S_Actress,no
+2001,A Beautiful Mind,AdaScreen,no
+2001,Gosford Park,OriScreen,no
+2001,Iris,S_Actor,no
+2001,Monster's Ball,Actress,no
+2001,Training Day,Actor,yes
+2002,Chicago,Picture,no
+2002,Chicago,S_Actress,no
+2002,Adaptation.,S_Actor,no
+2002,The Hours,Actress,no
+2002,Talk to Her,OriScreen,yes
+2002,The Pianist,Director,no
+2002,The Pianist,Actor,no
+2002,The Pianist,AdaScreen,no
+2003,Monster,Actress,no
+2003,Mystic River,Actor,no
+2003,Mystic River,S_Actor,no
+2003,Lost in Translation,OriScreen,no
+2003,Cold Mountain,S_Actress,no
+2003,The Lord of the Rings: The Return of the King,Picture,no
+2003,The Lord of the Rings: The Return of the King,Director,no
+2003,The Lord of the Rings: The Return of the King,AdaScreen,no
+2004,Sideways,AdaScreen,no
+2004,Million Dollar Baby,Picture,yes
+2004,Million Dollar Baby,Director,yes
+2004,Million Dollar Baby,Actress,no
+2004,Million Dollar Baby,S_Actor,yes
+2004,Eternal Sunshine of the Spotless Mind,OriScreen,no
+2004,Crash,Picture,no
+2004,Crash,OriScreen,no
+2004,Ray,Actor,no
+2004,The Aviator,S_Actress,no
+2005,Brokeback Mountain,Director,yes
+2005,Brokeback Mountain,AdaScreen,no
+2005,Capote,Actor,no
+2005,The Constant Gardener,S_Actress,no
+2005,Walk the Line,Actress,no
+2005,Syriana,S_Actor,no
+2006,The Last King of Scotland,Actor,no
+2006,Little Miss Sunshine,S_Actor,no
+2006,Little Miss Sunshine,OriScreen,no
+2006,The Departed,Picture,no
+2006,The Departed,Director,no
+2006,The Departed,AdaScreen,no
+2006,The Queen,Actress,no
+2006,Dreamgirls,S_Actress,no
+2007,There Will Be Blood,Actor,yes
+2007,La Vie en Rose,Actress,no
+2007,Michael Clayton,S_Actress,no
+2007,No Country for Old Men,Picture,no
+2007,No Country for Old Men,Director,yes
+2007,No Country for Old Men,S_Actor,no
+2007,No Country for Old Men,AdaScreen,yes
+2007,Juno,OriScreen,no
+2008,The Reader,Actress,no
+2008,Milk,Actor,yes
+2008,Milk,OriScreen,no
+2008,The Dark Knight,S_Actor,no
+2008,The Hurt Locker,Picture,no
+2008,The Hurt Locker,Director,no
+2008,The Hurt Locker,OriScreen,no
+2008,Vicky Cristina Barcelona,S_Actress,no
+2008,Slumdog Millionaire,Picture,no
+2008,Slumdog Millionaire,Director,no
+2008,Slumdog Millionaire,AdaScreen,no
+2009,Crazy Heart,Actor,no
+2009,Inglourious Basterds,S_Actor,no
+2009,The Blind Side,Actress,no
+2009,Precious,S_Actress,no
+2009,Precious,AdaScreen,no
+2010,Beginners,S_Actor,no
+2010,The Social Network,AdaScreen,no
+2010,Black Swan,Actress,no
+2010,The Fighter,S_Actor,no
+2010,The Fighter,S_Actress,no
+2010,The King's Speech,Picture,no
+2010,The King's Speech,Director,no
+2010,The King's Speech,Actor,no
+2010,The King's Speech,OriScreen,no
+2011,The Iron Lady,Actress,yes
+2011,The Artist,Picture,no
+2011,The Artist,Director,no
+2011,The Artist,Actor,no
+2011,Midnight in Paris,OriScreen,yes
+2011,The Help,S_Actress,no
+2011,The Descendants,AdaScreen,yes
+2012,Argo,Picture,no
+2012,Argo,AdaScreen,no
+2012,Lincoln,Actor,yes
+2012,Life of Pi,Director,yes
+2012,Silver Linings Playbook,Actress,no
+2012,Les Misérables,S_Actress,no
+2012,Django Unchained,S_Actor,yes
+2012,Django Unchained,OriScreen,yes
+2013,Her,OriScreen,no
+2013,Blue Jasmine,Actress,yes
+2013,Gravity,Director,no
+2013,Dallas Buyers Club,Actor,no
+2013,Dallas Buyers Club,S_Actor,no
+2013,12 Years a Slave,Picture,no
+2013,12 Years a Slave,S_Actress,no
+2013,12 Years a Slave,AdaScreen,no
+2014,Still Alice,Actress,no
+2014,Boyhood,S_Actress,no
+2014,Whiplash,S_Actor,no
+2014,Birdman or (The Unexpected Virtue of Ignorance),Picture,no
+2014,Birdman or (The Unexpected Virtue of Ignorance),Director,no
+2014,Birdman or (The Unexpected Virtue of Ignorance),OriScreen,no
+2014,The Theory of Everything,Actor,no
+2014,The Imitation Game,AdaScreen,no
+2015,The Danish Girl,S_Actress,no
+2015,The Revenant,Director,yes
+2015,The Revenant,Actor,no
+2015,Room,Actress,no
+2015,Bridge of Spies,S_Actor,no
+2015,Spotlight,Picture,no
+2015,Spotlight,OriScreen,no
+2015,The Big Short,AdaScreen,no
+2016,Moonlight,Picture,yes
+2016,Moonlight,S_Actor,no
+2016,Moonlight,AdaScreen,no
+2016,Fences,S_Actress,no
+2016,La La Land,Director,no
+2016,La La Land,Actress,no
+2016,Manchester by the Sea,Actor,no
+2016,Manchester by the Sea,OriScreen,no
