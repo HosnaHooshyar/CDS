@@ -1,0 +1,137 @@
+year,movie,certificate,duration,genre_1,genre_2,genre_3,rate,metascore,votes,gross,user_reviews,critic_reviews,release_date.month,release_date.day-of-month,release_date.day-of-week,Award
+2000,Traffic,R,147,Crime,Drama,Thriller,7.5999999,86,173632,124110000,871,220,1,5,5,Director
+2000,Traffic,R,147,Crime,Drama,Thriller,7.5999999,86,173632,124110000,871,220,1,5,5,S_Actor
+2000,Traffic,R,147,Crime,Drama,Thriller,7.5999999,86,173632,124110000,871,220,1,5,5,AdaScreen
+2000,Pollock,R,122,Biography,Drama,No other genre,7,77,23585,8600000,148,114,3,23,5,S_Actress
+2000,Erin Brockovich,R,131,Biography,Drama,No other genre,7.30000019,73,139323,125550000,500,166,3,17,5,Actress
+2000,Gladiator,R,155,Action,Adventure,Drama,8.5,64,1024040,187670000,2380,265,5,5,5,Picture
+2000,Gladiator,R,155,Action,Adventure,Drama,8.5,64,1024040,187670000,2380,265,5,5,5,Actor
+2000,Almost Famous,R,122,Adventure,Comedy,Drama,7.9000001,90,212643,32520000,826,146,9,22,5,OriScreen
+2001,A Beautiful Mind,PG-13,135,Biography,Drama,No other genre,8.19999981,72,640458,170710000,1181,204,1,4,5,Picture
+2001,A Beautiful Mind,PG-13,135,Biography,Drama,No other genre,8.19999981,72,640458,170710000,1181,204,1,4,5,Director
+2001,A Beautiful Mind,PG-13,135,Biography,Drama,No other genre,8.19999981,72,640458,170710000,1181,204,1,4,5,S_Actress
+2001,A Beautiful Mind,PG-13,135,Biography,Drama,No other genre,8.19999981,72,640458,170710000,1181,204,1,4,5,AdaScreen
+2001,Gosford Park,R,133,Comedy,Drama,Mystery,7.30000019,90,66638,41300105,633,186,1,18,5,OriScreen
+2001,Iris,R,91,Biography,Drama,Romance,7.0999999,76,15104,1290000,145,99,3,29,5,S_Actor
+2001,Monster's Ball,R,111,Drama,Romance,No other genre,7.0999999,69,72725,31250000,523,151,3,1,5,Actress
+2001,Training Day,R,122,Crime,Drama,Thriller,7.69999981,69,316040,76260000,638,109,10,5,5,Actor
+2002,Chicago,PG-13,113,Comedy,Crime,Musical,7.19999981,82,176942,170680000,1019,222,1,24,5,Picture
+2002,Chicago,PG-13,113,Comedy,Crime,Musical,7.19999981,82,176942,170680000,1019,222,1,24,5,S_Actress
+2002,Adaptation.,R,114,Comedy,Drama,No other genre,7.69999981,83,147224,22250000,712,242,2,14,5,S_Actor
+2002,The Hours,PG-13,114,Drama,Romance,No other genre,7.5999999,81,104612,41600000,660,173,2,14,5,Actress
+2002,Talk to Her,R,112,Drama,Mystery,Romance,8,86,88643,9284265,255,142,2,14,5,OriScreen
+2002,The Pianist,R,150,Biography,Drama,War,8.5,85,523908,32519322,772,192,3,28,5,Director
+2002,The Pianist,R,150,Biography,Drama,War,8.5,85,523908,32519322,772,192,3,28,5,Actor
+2002,The Pianist,R,150,Biography,Drama,War,8.5,85,523908,32519322,772,192,3,28,5,AdaScreen
+2003,Monster,R,109,Biography,Crime,Drama,7.30000019,74,108623,34470000,538,184,1,30,5,Actress
+2003,Mystic River,R,138,Crime,Drama,Mystery,8,84,347851,90140000,938,230,10,15,3,Actor
+2003,Mystic River,R,138,Crime,Drama,Mystery,8,84,347851,90140000,938,230,10,15,3,S_Actor
+2003,Lost in Translation,R,101,Drama,No other genre,No other genre,7.80000019,89,330944,44570000,1858,263,10,3,5,OriScreen
+2003,Cold Mountain,R,154,Adventure,Drama,History,7.19999981,73,120878,95630000,678,196,12,25,4,S_Actress
+2003,The Lord of the Rings: The Return of the King,PG-13,201,Adventure,Drama,Fantasy,8.89999962,94,1264277,377020000,3213,325,12,17,3,Picture
+2003,The Lord of the Rings: The Return of the King,PG-13,201,Adventure,Drama,Fantasy,8.89999962,94,1264277,377020000,3213,325,12,17,3,Director
+2003,The Lord of the Rings: The Return of the King,PG-13,201,Adventure,Drama,Fantasy,8.89999962,94,1264277,377020000,3213,325,12,17,3,AdaScreen
+2004,Sideways,R,126,Comedy,Drama,Romance,7.5,94,153557,71502303,841,283,1,21,5,AdaScreen
+2004,Million Dollar Baby,PG-13,132,Drama,Sport,No other genre,8.10000038,86,501680,100420000,1113,267,1,28,5,Picture
+2004,Million Dollar Baby,PG-13,132,Drama,Sport,No other genre,8.10000038,86,501680,100420000,1113,267,1,28,5,Director
+2004,Million Dollar Baby,PG-13,132,Drama,Sport,No other genre,8.10000038,86,501680,100420000,1113,267,1,28,5,Actress
+2004,Million Dollar Baby,PG-13,132,Drama,Sport,No other genre,8.10000038,86,501680,100420000,1113,267,1,28,5,S_Actor
+2004,Eternal Sunshine of the Spotless Mind,R,108,Drama,Fantasy,Romance,8.30000019,89,696228,34130000,1535,277,3,19,5,OriScreen
+2004,Crash,R,112,Crime,Drama,Thriller,7.80000019,69,368775,54560000,1627,284,5,6,5,Picture
+2004,Crash,R,112,Crime,Drama,Thriller,7.80000019,69,368775,54560000,1627,284,5,6,5,OriScreen
+2004,Ray,PG-13,152,Biography,Drama,Music,7.69999981,73,113740,75305995,436,207,10,29,5,Actor
+2004,The Aviator,PG-13,170,Biography,Drama,No other genre,7.5,77,272977,102610000,806,266,12,25,6,S_Actress
+2005,Brokeback Mountain,R,134,Drama,Romance,No other genre,7.69999981,87,266587,83030000,2263,354,1,13,5,Director
+2005,Brokeback Mountain,R,134,Drama,Romance,No other genre,7.69999981,87,266587,83030000,2263,354,1,13,5,AdaScreen
+2005,Capote,R,114,Biography,Crime,Drama,7.4000001,88,103895,28747570,416,271,2,3,5,Actor
+2005,The Constant Gardener,R,129,Drama,Mystery,Romance,7.5,82,114432,33570000,567,227,8,31,3,S_Actress
+2005,Walk the Line,PG-13,136,Biography,Drama,Music,7.9000001,72,192695,119520000,815,288,11,18,5,Actress
+2005,Syriana,R,128,Drama,Thriller,No other genre,7,76,112008,50820000,627,356,12,9,5,S_Actor
+2006,The Last King of Scotland,R,123,Biography,Drama,History,7.69999981,74,149442,17605861,356,251,1,19,5,Actor
+2006,Little Miss Sunshine,R,101,Comedy,Drama,No other genre,7.80000019,80,366534,59890000,890,239,8,18,5,S_Actor
+2006,Little Miss Sunshine,R,101,Comedy,Drama,No other genre,7.80000019,80,366534,59890000,890,239,8,18,5,OriScreen
+2006,The Departed,R,151,Crime,Drama,Thriller,8.5,85,910945,132370000,2074,353,10,6,5,Picture
+2006,The Departed,R,151,Crime,Drama,Thriller,8.5,85,910945,132370000,2074,353,10,6,5,Director
+2006,The Departed,R,151,Crime,Drama,Thriller,8.5,85,910945,132370000,2074,353,10,6,5,AdaScreen
+2006,The Queen,PG-13,103,Biography,Drama,No other genre,7.30000019,NA,87829,56437947,426,278,11,17,5,Actress
+2006,Dreamgirls,PG-13,130,Drama,Music,Musical,6.5,76,57655,103338338,596,238,12,25,1,S_Actress
+2007,There Will Be Blood,R,158,Drama,History,No other genre,8.10000038,92,389582,40220000,1124,397,1,25,5,Actor
+2007,La Vie en Rose,PG-13,140,Biography,Drama,Music,7.5999999,66,68045,10299782,221,210,7,20,5,Actress
+2007,Michael Clayton,R,119,Crime,Drama,Thriller,7.30000019,82,136587,49024969,367,298,10,12,5,S_Actress
+2007,No Country for Old Men,R,122,Crime,Drama,Thriller,8.10000038,91,640561,74270000,1541,488,11,21,3,Picture
+2007,No Country for Old Men,R,122,Crime,Drama,Thriller,8.10000038,91,640561,74270000,1541,488,11,21,3,Director
+2007,No Country for Old Men,R,122,Crime,Drama,Thriller,8.10000038,91,640561,74270000,1541,488,11,21,3,S_Actor
+2007,No Country for Old Men,R,122,Crime,Drama,Thriller,8.10000038,91,640561,74270000,1541,488,11,21,3,AdaScreen
+2007,Juno,PG-13,96,Comedy,Drama,No other genre,7.5,81,424948,143490000,882,387,12,25,2,OriScreen
+2008,The Reader,R,124,Drama,Romance,No other genre,7.5999999,58,195211,34180000,375,297,1,30,5,Actress
+2008,Milk,R,128,Biography,Drama,History,7.5999999,84,140251,31838002,290,325,1,30,5,Actor
+2008,Milk,R,128,Biography,Drama,History,7.5999999,84,140251,31838002,290,325,1,30,5,OriScreen
+2008,The Dark Knight,PG-13,152,Action,Crime,Drama,9,82,1743331,533320000,4782,649,7,18,5,S_Actor
+2008,The Hurt Locker,R,131,Drama,History,Thriller,7.5999999,94,343364,15700000,878,389,7,31,5,Picture
+2008,The Hurt Locker,R,131,Drama,History,Thriller,7.5999999,94,343364,15700000,878,389,7,31,5,Director
+2008,The Hurt Locker,R,131,Drama,History,Thriller,7.5999999,94,343364,15700000,878,389,7,31,5,OriScreen
+2008,Vicky Cristina Barcelona,PG-13,96,Drama,Romance,No other genre,7.19999981,70,204364,23210000,367,277,8,15,5,S_Actress
+2008,Slumdog Millionaire,R,120,Drama,No other genre,No other genre,8,86,661819,141320000,1024,419,12,25,4,Picture
+2008,Slumdog Millionaire,R,120,Drama,No other genre,No other genre,8,86,661819,141320000,1024,419,12,25,4,Director
+2008,Slumdog Millionaire,R,120,Drama,No other genre,No other genre,8,86,661819,141320000,1024,419,12,25,4,AdaScreen
+2009,Crazy Heart,R,112,Drama,Music,Romance,7.30000019,83,69996,39462438,228,273,2,5,5,Actor
+2009,Inglourious Basterds,R,153,Adventure,Drama,War,8.30000019,69,928117,120520000,1546,492,8,21,5,S_Actor
+2009,The Blind Side,PG-13,129,Biography,Drama,Sport,7.69999981,53,231382,255950000,430,262,11,20,5,Actress
+2009,Precious,R,110,Drama,No other genre,No other genre,7.30000019,79,89573,47540000,277,321,11,20,5,S_Actress
+2009,Precious,R,110,Drama,No other genre,No other genre,7.30000019,79,89573,47540000,277,321,11,20,5,AdaScreen
+2010,Beginners,R,105,Comedy,Drama,Romance,7.19999981,81,75975,5780000,145,262,6,9,4,S_Actor
+2010,The Social Network,PG-13,120,Biography,Drama,No other genre,7.69999981,95,497601,96920000,702,557,10,1,5,AdaScreen
+2010,Black Swan,R,108,Drama,Thriller,No other genre,8,79,568921,106950000,1147,667,12,17,5,Actress
+2010,The Fighter,R,116,Biography,Drama,Sport,7.9000001,79,284158,93570000,391,411,12,17,5,S_Actor
+2010,The Fighter,R,116,Biography,Drama,Sport,7.9000001,79,284158,93570000,391,411,12,17,5,S_Actress
+2010,The King's Speech,R,118,Biography,Drama,No other genre,8,88,522594,138800000,642,478,12,25,6,Picture
+2010,The King's Speech,R,118,Biography,Drama,No other genre,8,88,522594,138800000,642,478,12,25,6,Director
+2010,The King's Speech,R,118,Biography,Drama,No other genre,8,88,522594,138800000,642,478,12,25,6,Actor
+2010,The King's Speech,R,118,Biography,Drama,No other genre,8,88,522594,138800000,642,478,12,25,6,OriScreen
+2011,The Iron Lady,PG-13,105,Biography,Drama,No other genre,6.4000001,54,85175,29959436,354,332,1,13,5,Actress
+2011,The Artist,PG-13,100,Comedy,Drama,Romance,8,89,195458,44667095,585,578,1,20,5,Picture
+2011,The Artist,PG-13,100,Comedy,Drama,Romance,8,89,195458,44667095,585,578,1,20,5,Director
+2011,The Artist,PG-13,100,Comedy,Drama,Romance,8,89,195458,44667095,585,578,1,20,5,Actor
+2011,Midnight in Paris,PG-13,94,Comedy,Fantasy,Romance,7.69999981,81,311997,56820000,524,491,6,10,5,OriScreen
+2011,The Help,PG-13,146,Drama,No other genre,No other genre,8.10000038,62,332037,169710000,470,375,8,10,3,S_Actress
+2011,The Descendants,R,115,Comedy,Drama,No other genre,7.30000019,84,208797,82620000,442,549,12,9,5,AdaScreen
+2012,Argo,R,120,Biography,Drama,History,7.69999981,86,468444,136020000,702,656,10,12,5,Picture
+2012,Argo,R,120,Biography,Drama,History,7.69999981,86,468444,136020000,702,656,10,12,5,AdaScreen
+2012,Lincoln,PG-13,150,Biography,Drama,History,7.4000001,86,203189,182200000,728,540,11,16,5,Actor
+2012,Life of Pi,PG,127,Adventure,Drama,Fantasy,7.9000001,79,458272,124980000,756,555,11,21,3,Director
+2012,Silver Linings Playbook,R,122,Comedy,Drama,Romance,7.80000019,81,551547,132090000,703,539,12,25,2,Actress
+2012,Les Misérables,PG-13,158,Drama,Musical,Romance,7.5999999,63,251377,148780000,856,490,12,25,2,S_Actress
+2012,Django Unchained,R,165,Drama,Western,No other genre,8.39999962,81,1003046,162800000,1208,769,12,25,2,S_Actor
+2012,Django Unchained,R,165,Drama,Western,No other genre,8.39999962,81,1003046,162800000,1208,769,12,25,2,OriScreen
+2013,Her,R,126,Drama,Romance,Sci,8,90,375711,25560000,772,581,1,10,5,OriScreen
+2013,Blue Jasmine,PG-13,98,Drama,No other genre,No other genre,7.30000019,78,156398,33404871,396,420,8,23,5,Actress
+2013,Gravity,PG-13,91,Adventure,Drama,Sci,7.80000019,96,604814,274080000,1906,743,10,4,5,Director
+2013,Dallas Buyers Club,R,117,Biography,Drama,No other genre,8,84,341680,27300000,345,474,11,22,5,Actor
+2013,Dallas Buyers Club,R,117,Biography,Drama,No other genre,8,84,341680,27300000,345,474,11,22,5,S_Actor
+2013,12 Years a Slave,R,134,Biography,Drama,History,8.10000038,96,465646,56670000,714,601,11,8,5,Picture
+2013,12 Years a Slave,R,134,Biography,Drama,History,8.10000038,96,465646,56670000,714,601,11,8,5,S_Actress
+2013,12 Years a Slave,R,134,Biography,Drama,History,8.10000038,96,465646,56670000,714,601,11,8,5,AdaScreen
+2014,Still Alice,PG-13,101,Drama,No other genre,No other genre,7.5,72,93164,18656400,31,32,2,20,5,Actress
+2014,Boyhood,R,165,Drama,No other genre,No other genre,7.9000001,100,278651,25360000,850,558,8,15,5,S_Actress
+2014,Whiplash,R,107,Drama,Music,No other genre,8.5,88,443341,13090000,770,541,10,15,3,S_Actor
+2014,Birdman or (The Unexpected Virtue of Ignorance),R,119,Comedy,Drama,Romance,7.80000019,88,420750,42340000,1122,593,11,14,5,Picture
+2014,Birdman or (The Unexpected Virtue of Ignorance),R,119,Comedy,Drama,Romance,7.80000019,88,420750,42340000,1122,593,11,14,5,Director
+2014,Birdman or (The Unexpected Virtue of Ignorance),R,119,Comedy,Drama,Romance,7.80000019,88,420750,42340000,1122,593,11,14,5,OriScreen
+2014,The Theory of Everything,PG-13,123,Biography,Drama,Romance,7.69999981,72,285961,35887263,401,423,11,26,3,Actor
+2014,The Imitation Game,PG-13,114,Biography,Drama,Thriller,8.10000038,73,511321,91120000,634,456,12,25,4,AdaScreen
+2015,The Danish Girl,R,119,Biography,Drama,Romance,7,66,100926,12710000,211,324,1,22,5,S_Actress
+2015,The Revenant,R,156,Adventure,Drama,Thriller,8,76,469177,183640000,1257,581,1,8,5,Director
+2015,The Revenant,R,156,Adventure,Drama,Thriller,8,76,469177,183640000,1257,581,1,8,5,Actor
+2015,Room,R,118,Drama,No other genre,No other genre,8.19999981,86,199790,14680000,387,445,1,22,5,Actress
+2015,Bridge of Spies,PG-13,142,Drama,History,Thriller,7.5999999,81,204054,72310000,391,469,10,16,5,S_Actor
+2015,Spotlight,R,128,Crime,Drama,History,8.10000038,93,241566,44990000,443,484,11,20,5,Picture
+2015,Spotlight,R,128,Crime,Drama,History,8.10000038,93,241566,44990000,443,484,11,20,5,OriScreen
+2015,The Big Short,R,130,Biography,Comedy,Drama,7.80000019,81,225229,70240000,403,435,12,23,3,AdaScreen
+2016,Moonlight,R,111,Drama,No other genre,No other genre,8.5,99,14324,11480000,136,217,11,18,5,Picture
+2016,Moonlight,R,111,Drama,No other genre,No other genre,8.5,99,14324,11480000,136,217,11,18,5,S_Actor
+2016,Moonlight,R,111,Drama,No other genre,No other genre,8.5,99,14324,11480000,136,217,11,18,5,AdaScreen
+2016,Fences,PG-13,139,Drama,No other genre,No other genre,7.69999981,78,8505,43130000,96,134,12,25,7,S_Actress
+2016,La La Land,PG-13,128,Comedy,Drama,Musical,8.69999981,93,78781,77300000,526,433,12,25,7,Director
+2016,La La Land,PG-13,128,Comedy,Drama,Musical,8.69999981,93,78781,77300000,526,433,12,25,7,Actress
+2016,Manchester by the Sea,R,137,Drama,No other genre,No other genre,8.39999962,96,17469,35160000,185,277,12,16,5,Actor
+2016,Manchester by the Sea,R,137,Drama,No other genre,No other genre,8.39999962,96,17469,35160000,185,277,12,16,5,OriScreen
